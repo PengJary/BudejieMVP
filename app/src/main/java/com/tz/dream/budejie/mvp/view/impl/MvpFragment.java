@@ -1,11 +1,10 @@
 package com.tz.dream.budejie.mvp.view.impl;
 
 import android.os.Bundle;
-import android.sax.RootElement;
 import android.support.v4.app.Fragment;
 import android.view.View;
 
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.mvp.view.MvpView;
 
 /**

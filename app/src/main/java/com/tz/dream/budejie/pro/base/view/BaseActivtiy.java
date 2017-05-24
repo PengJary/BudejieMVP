@@ -1,6 +1,6 @@
 package com.tz.dream.budejie.pro.base.view;
 
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.mvp.view.impl.MvpActivity;
 
 /**

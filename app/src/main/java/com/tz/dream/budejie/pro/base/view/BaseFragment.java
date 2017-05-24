@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.mvp.view.impl.MvpFragment;
 
 /**

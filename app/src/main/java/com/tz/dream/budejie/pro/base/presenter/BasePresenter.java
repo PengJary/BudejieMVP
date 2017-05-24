@@ -3,7 +3,7 @@ package com.tz.dream.budejie.pro.base.presenter;
 import android.content.Context;
 
 import com.google.gson.Gson;
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.pro.base.model.BaseModel;
 
 /**

@@ -7,7 +7,7 @@ import android.widget.LinearLayout;
 
 import com.tz.dream.budejie.R;
 import com.tz.dream.budejie.bean.UserBean;
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.pro.base.presenter.BasePresenter;
 import com.tz.dream.budejie.pro.base.view.BaseActivtiy;
 import com.tz.dream.budejie.pro.mine.presenter.LoginPresenter;

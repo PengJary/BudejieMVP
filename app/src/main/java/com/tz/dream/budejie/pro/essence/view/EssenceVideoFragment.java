@@ -8,7 +8,7 @@ import com.andview.refreshview.XRefreshView;
 import com.andview.refreshview.XRefreshViewFooter;
 import com.tz.dream.budejie.R;
 import com.tz.dream.budejie.bean.PostsListBean;
-import com.tz.dream.budejie.mvp.presenter.impl.MvpBasePresenter;
+import com.tz.dream.budejie.mvp.presenter.MvpBasePresenter;
 import com.tz.dream.budejie.pro.base.presenter.BasePresenter;
 import com.tz.dream.budejie.pro.base.view.BaseFragment;
 import com.tz.dream.budejie.pro.essence.presenter.EssenceVideoPresenter;
